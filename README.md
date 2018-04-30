@@ -30,6 +30,8 @@ After Rotation of the Beam and Movement of the Ship.
 <br>
 ![](img2.png)
 
+### Project Inspiration
+![](https://qph.fs.quoracdn.net/main-qimg-4fd91662e1f3cc99dc808a87dd7f6e4b-c)
 
 ## Team Members
 * [Nishant Kumar](https://github.com/NishantKr97),16IT123
