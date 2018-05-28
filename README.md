@@ -22,11 +22,11 @@ This requires a C complier to run the program. Follow the instruction to run the
 - Update SCREEN_WIDTH,SCREEN_HEIGHT according to your screen resolution
 
 ### Project Images
-Before Rotation of the Beam and Movement of the Ship.
+#Before Rotation of the Beam and Movement of the Ship.
 <br>
 ![](img1.png)
-<br>
-After Rotation of the Beam and Movement of the Ship.
+<br><br>
+#After Rotation of the Beam and Movement of the Ship.
 <br>
 ![](img2.png)
 
